@@ -8,7 +8,7 @@ I learned how to add and edit semantic HTML on a webpage to make the codebase mo
 
 ## Webpage Link
 
-- [Link to Horiseon Webpage](#Link-to-webpage)
+- [Link to Horiseon Webpage](https://bundleofcodes.github.io/Horiseon-Portfolio/)
 
 ## Credits
 
@@ -18,4 +18,4 @@ I learned how to add and edit semantic HTML on a webpage to make the codebase mo
 
 ## License
 
-[Link to MIT Licence here:](https://github.com/bundleofcodes/Module-1-Homework/blob/main/LICENSE).
+[Link to MIT Licence here:](https://github.com/bundleofcodes/Module-1-Homework/blob/main/LICENSE)
