@@ -2,12 +2,9 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+Horiseon Company preferred a codebase that was more accessible for the screen reader so that it would be more available to all search engines. Horiseon also wanted to add a navigation bar and alt text to images in the event that the page experiences a load error, the reader will still be able to understand what's intended for the webpage.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+I learned how to add and edit semantic HTML on a webpage to make the codebase more clear and concise.
 
 ## Webpage Link
 
