@@ -14,7 +14,7 @@ I learned how to add and edit semantic HTML on a webpage to make the codebase mo
 
 Screenshot of webpage:
 
-- ![alt text](assets/images/Horiseon-webpage-screenshot.png)
+- ![alt text](assets/images/IMG_7760.jpg)
 
 ## Credits
 
