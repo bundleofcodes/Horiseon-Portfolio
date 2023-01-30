@@ -10,6 +10,12 @@ I learned how to add and edit semantic HTML on a webpage to make the codebase mo
 
 - [Link to Horiseon Webpage](https://bundleofcodes.github.io/Horiseon-Portfolio/)
 
+## Usage
+
+Screenshot of webpage:
+
+- ![alt text](assets/images/Horiseon-webpage-screenshot.png)
+
 ## Credits
 
 - Georgia Tech Coding Bootcamp
